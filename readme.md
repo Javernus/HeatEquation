@@ -7,7 +7,7 @@ This repository contains code to solve the Heat Equation numerically and does so
 To run the code, you need to have Python, Numpy and Scipy installed. You can then run the code by running the following command in the terminal:
 
 ```bash
-python3 heatEquation.py
+python3 main.py
 ```
 
 ## How to use
